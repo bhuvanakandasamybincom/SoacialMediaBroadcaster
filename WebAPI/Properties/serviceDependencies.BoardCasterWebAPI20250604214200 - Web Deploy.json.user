@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2025-06-10T15:55:22.9232918Z"
+    },
+    "identityapp1": {
+      "restored": true,
+      "restoreTime": "2025-06-10T15:59:43.4494114Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2025-06-10T15:57:43.5093567Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "7a93db54-556c-4a2f-a14f-98af309e8d84"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "BincomSession"
+    },
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "BincomSession"
+    },
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "7a93db54-556c-4a2f-a14f-98af309e8d84"
+    },
+    "mssql1.serviceConnectorResourceGroupName": {
+      "Name": "mssql1.serviceConnectorResourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "BincomSession"
+    }
+  }
+}
